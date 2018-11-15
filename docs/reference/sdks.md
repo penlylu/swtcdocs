@@ -14,4 +14,4 @@
 
 ## jcc-jingtum-lib
 
-[jcc-jingtum-lib](https://github.com/JCCDex/jcc_jingtum_lib)是井畅公司开发的SWTC公链开发库。
+[jcc-jingtum-lib](https://github.com/JCCDex/jcc_jingtum_lib)是井畅公司基于jingtum-lib开发，增加了浏览器支持，支持所有基于井通区块链技术搭建的联盟链接入，以及完善了基础单元测试。
