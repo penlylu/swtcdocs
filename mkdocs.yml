@@ -1,0 +1,28 @@
+site_name: 'SWTCDocs Demo'
+pages:
+- '公链介绍':
+    - 'SWTC公链': 'index.md'
+    - 'SWTC通证': 'intro/swtctoken.md'
+    - '社区及资源': 'intro/resources.md'
+    - '基金会及历史': 'intro/foundation.md'
+    - '生态节点计划': 'intro/nodestrategy.md'
+- 'Wiki':
+    - '账户': 'wiki/account.md'
+    - '资产': 'wiki/asset.md'
+    - '账本结构': 'wiki/ledgerstructure.md'
+    - '交易结构': 'wiki/txstructure.md'
+    - '节点': 'wiki/node.md'
+- '开发参考':
+    - 'Jingtum API': 'reference/jingtum-api.md'
+    - 'Service节点手册': 'reference/servicenode.md'
+    - '开发资源': 'reference/sdks.md'
+- '其他':
+    - 'Jingtum API使用教程': 'tutorial/jingtum-api_tutorial.md'
+    - 'Service节点使用教程': 'tutorial/service_tutorial.md'
+    - '通证发行流程': 'tutorial/token_issue.md'
+    - 'SWTC Labs': 'tutorial/swtclabs.md'
+- '关于': 'about.md'
+extra_css: ['docs/bootstrap/css']
+extra_javascript: ['docs/bootstrap/js']
+theme_dir: 'docs/bootstrap'
+repo_url: 'https://github.com/penlylu/swtcdocsdemo'
