@@ -14,7 +14,7 @@
 
   - Linux：`./skywell.node -api -rpci`
 
-- 第四步：调用`JSON-RPC API`（详细请查询[Service节点手册](https://penlylu-demo.readthedocs.io/en/latest/reference/servicenode/)）。
+- 第四步：调用`JSON-RPC API`（详细请查询[Service节点手册](http://www.swtcdocs.org/zh_CN/latest/reference/servicenode/)）。
 
 ## 通过HTTP访问调用API接口
 

@@ -8,7 +8,7 @@ Jingtum API是井通科技提供的用于访问SWTC公链的RESTful API接口。
 
 - 第一步：安装PostmanAPI调试工具、Chrome浏览器的restlet插件或者其他类似的调试工具。
 
-- 第二步：使用调试工具对Jingtum API的接口进行调用，接口调用分为GET请求和POST请求（请求地址、请求参数、请求返回结果参照本网站的[Jingtum API手册](https://penlylu-demo.readthedocs.io/en/latest/reference/jingtum-api/)）。
+- 第二步：使用调试工具对Jingtum API的接口进行调用，接口调用分为GET请求和POST请求（请求地址、请求参数、请求返回结果参照本网站的[Jingtum API手册](http://www.swtcdocs.org/zh_CN/latest/tutorial/jingtum-api_tutorial/)）。
 
 下面以Chrome浏览器的restlet client为例：
 

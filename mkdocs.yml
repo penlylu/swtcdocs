@@ -1,4 +1,4 @@
-site_name: 'SWTCDocs Demo'
+site_name: 'SWTCdocs'
 pages:
 - '公链介绍':
     - 'SWTC公链': 'index.md'
@@ -25,4 +25,4 @@ pages:
 extra_css: ['docs/bootstrap/css']
 extra_javascript: ['docs/bootstrap/js']
 theme_dir: 'docs/bootstrap'
-repo_url: 'https://github.com/penlylu/swtcdocsdemo'
+repo_url: 'https://github.com/penlylu/swtcdocs'

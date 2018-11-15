@@ -12,7 +12,7 @@ SWTC Labs 是一个面向用户展示SWTC公链正在开发的新功能以及收
 
 下载：[Linux](./skywell.node_linux_v0.7.2-pre.tar.gz)  [MacOS](./skywell.node_mac_v0.7.2-pre.tar.gz)  [Windows](./skywell.node_win_v0.7.2-pre.tar.gz)
 
-使用手册：[Service节点手册](https://penlylu-demo.readthedocs.io/en/latest/reference/servicenode/)
+使用手册：[Service节点手册](http://www.swtcdocs.org/zh_CN/latest/reference/servicenode/)
 
 大家可以自行下载Service节点部署程序，自主搭建服务节点。
 
