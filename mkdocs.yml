@@ -19,7 +19,7 @@ pages:
 - '其他':
     - 'Jingtum API使用教程': 'tutorial/jingtum-api_tutorial.md'
     - 'Service节点使用教程': 'tutorial/service_tutorial.md'
-    - '通证发行流程': 'tutorial/token_issue.md'
+    - 'SWTC公链通证发行申请指引': 'tutorial/token_issue.md'
     - 'SWTC Labs': 'tutorial/swtclabs.md'
 - '关于': 'about.md'
 extra_css: ['docs/bootstrap/css']
