@@ -11,8 +11,7 @@ pages:
     - '资产': 'wiki/asset.md'
     - '账本结构': 'wiki/ledgerstructure.md'
     - '交易结构': 'wiki/txstructure.md'
-    - '节点': 'wiki/node.md'
-    - '测试链': 'wiki/testnet.md'
+    - '节点': 'wiki/node.md'    
 - '开发参考':
     - 'Jingtum API': 'reference/jingtum-api.md'
     - 'Service节点手册': 'reference/servicenode.md'
