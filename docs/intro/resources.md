@@ -12,11 +12,13 @@
 
 [state.jingtum.com](state.jingtum.com)
 
+[swtcscan.jccdex.cn](swtcscan.jccdex.cn)
+
 ## 社区
 
 **1、微信公众号**
 
-井通区块链、SWTC互动社区、SWTC社区
+井通区块链、SWTC公链、SWTC开发者社区
 
 **2、微博**
 
@@ -47,5 +49,3 @@ SWTC社区交流9群：736212855
 **5、电报**
 
 http://0.plus/swtcchina
-
-
