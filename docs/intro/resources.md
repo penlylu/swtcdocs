@@ -6,13 +6,13 @@
 
 **1、SWTC公链官方网站**
 
-[www.swtc.top](www.swtc.top)
+[www.swtc.top](http://www.swtc.top)
 
 **2、区块浏览器**
 
-[state.jingtum.com](state.jingtum.com)
+[state.jingtum.com](https://state.jingtum.com)
 
-[swtcscan.jccdex.cn](swtcscan.jccdex.cn)
+[swtcscan.jccdex.cn](https://swtcscan.jccdex.cn)
 
 ## 社区
 
