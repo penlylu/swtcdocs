@@ -2,6 +2,14 @@
 
 ***
 
+## SwtcLib
+
+[swtclib](https://github.com/swtcca/swtclib)是CA节点开发和维护的井通公链开发库， 对jingtum-lib做出了一系列的改进，包括但不限于 **安全性** **便利性** **模块化** **扩展性**等等
+
+[在线文档时刻保持最新](https://swtcdoc.netlify.com/)
+
+
+
 ## SDKs
 
 [Github/swtcpro](https://github.com/swtcpro/)中提供的SDKs由SWTC开发者社区开发并维护，属于第三方开发的SDK。
